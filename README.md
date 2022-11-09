@@ -1,6 +1,7 @@
 # anything
 # My step
 - 1: add file
+- 2: edit file
 
 # Step
 # Description
